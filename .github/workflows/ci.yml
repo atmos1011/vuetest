@@ -1,4 +1,4 @@
-//ci
+
 name: Frontend CI Pipeline (Feature to Develop PR)
 
 on:

@@ -1,4 +1,4 @@
-//cd
+
 name: Frontend CD Pipeline (Develop to Main Merge)
 
 on:
